@@ -8,4 +8,4 @@ console.log(shifted);
 
 var spliced = arr.splice(3, 3);
 console.log(arr);
-console.log(spliced);
+console.log(6 == 6);
